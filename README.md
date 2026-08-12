@@ -13,18 +13,21 @@ I believe the best way to learn is to build, experiment, make mistakes, and keep
 🛠️ Skills I'm Learning
 
 Programming & Data
+
 🐍 Python
 🗄️ SQL
 📊 Pandas
 🔢 NumPy
 
 Data Analysis & Visualization
+
 📈 Matplotlib
 📊 Seaborn
 📋 Exploratory Data Analysis (EDA)
 📉 Data Cleaning & Preprocessing
 
 Statistics & Machine Learning
+
 📐 Statistics
 🤖 Machine Learning
 🧠 Scikit-learn
@@ -32,6 +35,7 @@ Statistics & Machine Learning
 📊 Model Evaluation
 
 Tools
+
 🐙 Git & GitHub
 📓 Jupyter Notebook
 💻 VS Code
