@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Kamlesh Chandra Bagoriya
+🚀 Aspiring Data Scientist | Non-Tech → Data Science
 
-<!--
-**kamleshchandrabagoriya/kamleshchandrabagoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm an aspiring Data Scientist currently transitioning from a non-technical background into the world of technology and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm at the beginning of my data science journey and currently focused on building strong fundamentals, learning practical skills, and applying what I learn through real-world projects.
+
+I believe the best way to learn is to build, experiment, make mistakes, and keep improving. That's why I'm using GitHub to document my learning journey and share my projects along the way.
+
+🛠️ Skills I'm Learning
+Programming & Data
+🐍 Python
+🗄️ SQL
+📊 Pandas
+🔢 NumPy
+Data Analysis & Visualization
+📈 Matplotlib
+📊 Seaborn
+📋 Exploratory Data Analysis (EDA)
+📉 Data Cleaning & Preprocessing
+Statistics & Machine Learning
+📐 Statistics
+🤖 Machine Learning
+🧠 Scikit-learn
+🔍 Feature Engineering
+📊 Model Evaluation
+Tools
+🐙 Git & GitHub
+📓 Jupyter Notebook
+💻 VS Code
+
+Note: I'm actively learning these skills, so this list will continue to grow as I progress.
