@@ -2,6 +2,7 @@ Hi, I'm Kamlesh Chandra Bagoriya
 
 🚀 Junior Data Scientist | Non-Tech → Data Science
 
+
 Welcome to my GitHub profile!
 
 I'm a Junior Data Scientist currently transitioning from a non-technical background into the world of technology and data.
@@ -9,6 +10,7 @@ I'm a Junior Data Scientist currently transitioning from a non-technical backgro
 I'm at the beginning of my data science journey and currently focused on building strong fundamentals, learning practical skills, and applying what I learn through real-world projects.
 
 I believe the best way to learn is to build, experiment, make mistakes, and keep improving. That's why I'm using GitHub to document my learning journey and share my projects along the way.
+
 
 🛠️ Skills I'm Learning
 
