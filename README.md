@@ -33,3 +33,22 @@ Tools
 💻 VS Code
 
 Note: I'm actively learning these skills, so this list will continue to grow as I progress.
+
+📈 My Learning Journey
+Non-Tech Background
+        ↓
+     Python
+        ↓
+      SQL
+        ↓
+Statistics & Mathematics
+        ↓
+   Data Analysis
+        ↓
+Machine Learning
+        ↓
+   Real-World Projects
+        ↓
+   Aspiring Data Scientist
+
+I'm documenting this journey publicly because I want my GitHub profile to reflect what I'm actually learning and building, rather than simply listing technologies I haven't used.
